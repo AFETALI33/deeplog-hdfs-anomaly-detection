@@ -165,7 +165,7 @@ python one_class/05c_visualize_complémentaires.py  # ROC, profils fréquentiels
 ### Protocole semi-supervisé (`semisupervised/`)
 
 ```bash
-python semisupervised/deeplog_combined.py   # LSTM + MLP supervisé
+python semisupervised/sem_sup.py   # LSTM + MLP supervisé
 ```
 
 ---
