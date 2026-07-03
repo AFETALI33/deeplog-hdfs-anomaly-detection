@@ -45,7 +45,7 @@
 
 **Contribution analytique clé / Key analytical finding** : quantification du mismatch fenêtre-level vs session-level. Pour K=5, le F1 passe de 0.099 à 0.605, soit un facteur ×6.1.
 
-![Mismatch fenêtre vs session](results/figures/fig6_topk_window_vs_session.png)
+![Mismatch fenêtre vs session](results/figures/fig6_topk_window_vs_session.jpg)
 
 ---
 
